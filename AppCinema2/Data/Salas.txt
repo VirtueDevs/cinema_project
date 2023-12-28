@@ -1,0 +1,5 @@
+150 sillas;001;Teatro Colón;Activa;Sala 1
+170 sillas;002;Teatro Colón;Activa;Sala 2
+120 sillas;003;Teatro Colón;No Activa;Sala 3
+158 Sillas;004;Salitre Plaza;Activa;Sala 1
+110 Sillas;005;Salitre plaza;Mantenimiento;Sala 2

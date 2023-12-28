@@ -1,0 +1,6 @@
+Hamburguesa de Carne;Cocacola  | Mr. Tea    | Agua;Fresas con Crema            ;17500
+Pizza de Queso      ;Fanta     | Pony Malta | Agua;Brownie con Helado          ;23500
+Tacos al Pastor     ;Coca Cola | Seven Up   | Agua;Helado de Vainilla y nueces ;20000
+Pop Corn Grande     ;Postobon  | Coca Cola  | Agua;Helado Artesanal con aderezo;28350
+Pop Corn Mediano    ;Mr. Tea   | Postobon   | Agua;Gelatina Rusa               ;13800
+Hot Dog;Coca Cola;Chocolatina Jet;14500

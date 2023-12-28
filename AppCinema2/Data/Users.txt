@@ -1,0 +1,3 @@
+andrese.avilap;12345;admin
+cristian.castrol;12345;normal
+Marina Gomez;8273perro;normal
